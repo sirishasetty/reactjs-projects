@@ -11,10 +11,10 @@ export const data=[
     },
     {
         id:2,
-        name:"React JS Application",
+        name:"HTML&CSS(Food-App)",
         image:RealEst,
-        github:"",
-        live:"",
+        github:"https://github.com/sirishasetty/HTML-CSS_Projects",
+        live:"https://sirishsetty-food-app.netlify.app/",
     },
     {
         id:3,
