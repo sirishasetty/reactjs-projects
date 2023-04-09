@@ -6,8 +6,8 @@ export const data=[
         id:1,
         name:"React Js Portfolio",
         image:WorkIm,
-        github:"https://github.com/sirishasetty/Portfolio",
-        live:"",
+        github:"https://github.com/sirishasetty/reactjs-projects",
+        live:"https://sirishashetty-portfilo-website.netlify.app/",
     },
     {
         id:2,
