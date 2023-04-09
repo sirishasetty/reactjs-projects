@@ -1,18 +1,20 @@
 import WorkIm from '../assets/projects/workImg.jpeg'
 import RealEst from '../assets/projects/realestate.jpg'
+import portfolio from "../assets/projects/portfolio.jpg"
+import foodapp from "../assets/projects/foodApp.jpg"
 
 export const data=[
     {
         id:1,
         name:"React Js Portfolio",
-        image:WorkIm,
+        image:portfolio,
         github:"https://github.com/sirishasetty/reactjs-projects",
         live:"https://sirishashetty-portfilo-website.netlify.app/",
     },
     {
         id:2,
         name:"HTML&CSS(Food-App)",
-        image:RealEst,
+        image:foodapp,
         github:"https://github.com/sirishasetty/HTML-CSS_Projects",
         live:"https://sirishsetty-food-app.netlify.app/",
     },
