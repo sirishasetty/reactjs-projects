@@ -1,4 +1,4 @@
-import WorkIm from '../assets/projects/workImg.jpeg'
+import budgetapp from '../assets/projects/budgetapp.png'
 import RealEst from '../assets/projects/realestate.jpg'
 import portfolio from "../assets/projects/portfolio.jpg"
 import foodapp from "../assets/projects/foodApp.jpg"
@@ -20,10 +20,10 @@ export const data=[
     },
     {
         id:3,
-        name:"React JS Application",
-        image:WorkIm,
-        github:"",
-        live:"",
+        name:"Budget_App",
+        image:budgetapp,
+        github:"https://github.com/sirishasetty/BudgetApp",
+        live:"https://sirishashetty-budgetapp.netlify.app/",
     },
     {
         id:4,

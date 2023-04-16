@@ -11,9 +11,7 @@ const Work = () => {
   return (
     <div name='work' className='w-full md:h-screen  bg-[#1d1458] text-red-500'>
       <div className=' max-w-[1000px] mx-auto p-6 flex flex-col justify-center w-full h-full'>
-        <div className='mt-14 py-4 ' >
-          <p>.</p>
-          <p>.</p>
+        <div className='py-4 ' >
           <p className=' text-4xl font-bold inline border-b-4 text-white-300 border-yellow-600'>
             Work
           </p>
@@ -22,7 +20,7 @@ const Work = () => {
         </div>
 
 {/* container to display projects */}
-<div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
+<div className="grid sm:grid-cols-2 md:grid-cols-4 gap-4">
           
           {/* used Gird Item to divide the coloumns */}
           {project.map((item, index) => (
